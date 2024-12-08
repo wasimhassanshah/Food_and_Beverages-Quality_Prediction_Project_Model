@@ -6,4 +6,13 @@ data_ingestion:
   source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+
   
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
+  STATUS_FILE: artifacts/data_validation/status.txt 
+  #if your data is in the correct format , it will retrun this validation status as True otherwise it will return this validation status a sFalse
+  # If something is wrong  with data set it will return False and We will not be able to start training pipeline because data will not be in correct format
+# It will be doing schema validation (schema.yaml)
+ 
