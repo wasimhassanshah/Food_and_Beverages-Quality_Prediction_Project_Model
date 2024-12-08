@@ -51,4 +51,12 @@ open up you local host and port
 ```
 
 
+### Mlflow Tracking
 
+import dagshub
+dagshub.init(repo_owner='abc', repo_name='Wine_Quality_Prediction_Project_ML', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)

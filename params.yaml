@@ -1,3 +1,10 @@
 ElasticNet:   # Iam using Elastic net model so only its parameter if you are using Random Forest or XGBoost you can use their parameters as well
-  alpha: 0.9
-  l1_ratio: 0.8
+  alpha: 0.1
+  l1_ratio: 0.1
+
+
+RandomForest:
+  max_depth: 2
+  random_state: 0
+  n_estimators: 100
+  min_samples_split: 2
