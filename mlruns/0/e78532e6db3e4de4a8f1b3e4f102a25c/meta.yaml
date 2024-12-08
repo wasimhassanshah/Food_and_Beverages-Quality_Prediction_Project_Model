@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality_Prediction_Project/mlruns/0/e78532e6db3e4de4a8f1b3e4f102a25c/artifacts
+end_time: 1733667307314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78532e6db3e4de4a8f1b3e4f102a25c
+run_name: puzzled-squid-440
+run_uuid: e78532e6db3e4de4a8f1b3e4f102a25c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733667294859
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality_Prediction_Project/mlruns/0/994bceb0c6fc4c48818da21d4b620a18/artifacts
+end_time: 1733666567309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 994bceb0c6fc4c48818da21d4b620a18
+run_name: rebellious-ant-899
+run_uuid: 994bceb0c6fc4c48818da21d4b620a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733666553303
+status: 3
+tags: []
+user_id: HP

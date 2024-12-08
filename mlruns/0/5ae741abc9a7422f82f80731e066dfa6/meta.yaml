@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality_Prediction_Project/mlruns/0/5ae741abc9a7422f82f80731e066dfa6/artifacts
+end_time: 1733666982408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ae741abc9a7422f82f80731e066dfa6
+run_name: awesome-bee-90
+run_uuid: 5ae741abc9a7422f82f80731e066dfa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733666967502
+status: 3
+tags: []
+user_id: HP
