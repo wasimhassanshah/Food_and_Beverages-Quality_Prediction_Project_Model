@@ -1,14 +1,18 @@
-pandas 
+pandas
 notebook
 numpy
 scikit-learn
 matplotlib
-python-box==6.0.2
-pyYAML
+python-box #==6.0.2
+pyyaml
 tqdm
 ensure==1.0.2
 joblib
 types-PyYAML
-Flask
-Flask-Cors
+flask
+flask-cors
+box
 -e .
+
+
+#pip install scikit-learn python-box pyyaml types-PyYAML
