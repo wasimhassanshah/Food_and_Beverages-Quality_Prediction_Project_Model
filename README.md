@@ -14,9 +14,8 @@
 9. Update the app.py
 
 # APP
-# Chatbot
 
-![image](https://github.com/wasimhassanshah/Equity-Research-Analysis-Chatbot/blob/main/Financial_chatbot.JPG)
+![image](https://github.com/wasimhassanshah/Wine_Quality_Prediction_Project_ML/blob/main/Juices_Quality_prediction.PNG)
 
 
 
