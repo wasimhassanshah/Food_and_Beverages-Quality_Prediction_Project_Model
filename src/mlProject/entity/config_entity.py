@@ -15,3 +15,19 @@ class DataValidationConfig:
     STATUS_FILE: str
     unzip_data_dir: Path
     all_schema: dict
+
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+
+
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+    root_dir: Path
+    train_data_path: Path
+    test_data_path: Path
+    model_name: str
+    alpha: float   #these two parameters (alpha and l1_ratio) are from params.yaml
+    l1_ratio: float      
+    target_column: str   #this is from schema.yaml
