@@ -13,6 +13,11 @@
 8. Update the main.py
 9. Update the app.py
 
+# APP
+# Chatbot
+
+![image](https://github.com/wasimhassanshah/Equity-Research-Analysis-Chatbot/blob/main/Financial_chatbot.JPG)
+
 
 
 # How to run?
